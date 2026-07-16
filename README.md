@@ -26,9 +26,8 @@ I'm **Heghine Azatyan**, a **React Native Developer** based in **Yerevan, Armeni
 - 📱 **React Native Developer** with 3+ years of experience (most recently at **Rocket Systems**, Jul 2022 – Nov 2025), shipping cross-platform apps to the App Store & Google Play.
 - 🧩 Strong with **TypeScript**, **Redux / RTK Query**, **GraphQL**, **REST APIs**, and real-time **WebSocket** features.
 - 🔗 Experienced integrating **Google Maps**, **Stripe payments**, **Firebase**, **OAuth (Google, Apple)**, and **Push Notifications (FCM / Notifee)**.
-- 🚀 Comfortable across the full delivery pipeline — **CI/CD (Codemagic)**, deep-linking, **In-App Purchases**, and publishing to both stores.
+- 🚀 Comfortable across the full delivery pipeline — **CI/CD (Codemagic)** and publishing to both stores.
 - 🎓 Bachelor's degree from the **National Polytechnic University of Armenia** (IT / Economics field).
-- 🌍 Languages: **English** (Intermediate) · **Russian** (Intermediate)
 
 ## 💼 Experience
 
