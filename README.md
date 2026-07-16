@@ -26,29 +26,12 @@
 
 ## &nbsp;🧑‍💻&nbsp; About Me
 
-<table>
-<tr>
-<td width="55%" valign="top">
-
-- 📱 &nbsp;**React Native Developer** with 3+ years of experience *(most recently at **Rocket Systems**, Jul 2022 – Nov 2025)*, shipping cross-platform apps to the App Store & Google Play.
-- 🧩 &nbsp;Strong with **TypeScript**, **Redux / RTK Query**, **GraphQL**, **REST APIs**, and real-time **WebSocket** features.
-- 🔗 &nbsp;Experienced integrating **Google Maps**, **Stripe**, **Firebase**, **OAuth**, and **Push Notifications (FCM / Notifee)**.
-- 🚀 &nbsp;Comfortable across the full pipeline — **CI/CD (Codemagic)**, deep-linking, **In-App Purchases**, and store publishing.
-
-</td>
-<td width="45%" valign="top">
-
-| &nbsp; | &nbsp; |
-| :--- | :--- |
-| 📍 **Location** | Yerevan, Armenia |
-| 💼 **Role** | React Native Developer |
-| 🎓 **Degree** | Polytechnic Univ. of Armenia |
-| 🌐 **Languages** | Armenian · English · Russian |
-| 💬 **Open to** | Mobile / RN opportunities |
-
-</td>
-</tr>
-</table>
+- 📱 **React Native Developer** with 3+ years of experience (most recently at **Rocket Systems**, Jul 2022 – Nov 2025), shipping cross-platform apps to the App Store & Google Play.
+- 🧩 Strong with **TypeScript**, **Redux / RTK Query**, **GraphQL**, **REST APIs**, and real-time **WebSocket** features.
+- 🔗 Experienced integrating **Google Maps**, **Stripe payments**, **Firebase**, **OAuth (Google, Apple)**, and **Push Notifications (FCM / Notifee)**.
+- 🚀 Comfortable across the full delivery pipeline — **CI/CD (Codemagic)**, deep-linking, **In-App Purchases**, and publishing to both stores.
+- 🎓 Bachelor's degree from the **National Polytechnic University of Armenia** (IT / Economics field).
+- 🌍 Languages: **Armenian** (Native) · **English** (Intermediate) · **Russian** (Intermediate)
 
 <img src="./divider.svg" width="100%" alt=""/>
 
@@ -175,6 +158,11 @@ Selected production apps I've built as a React Native developer
 - 🎓 &nbsp;**Bachelor's Degree** — National Polytechnic University of Armenia · Information Technologies (Economics field) · *2017 – 2021*
 - 📜 &nbsp;**JavaScript / React Development** — Basic IT Center · *Jul 2021 – Dec 2021*
 
+## &nbsp;🌐&nbsp; Languages
+
+![Armenian](https://img.shields.io/badge/Armenian-Native-EC4899?style=flat-square)
+![English](https://img.shields.io/badge/English-Intermediate-6366F1?style=flat-square)
+![Russian](https://img.shields.io/badge/Russian-Intermediate-8B5CF6?style=flat-square)
 
 <img src="./divider.svg" width="100%" alt=""/>
 
