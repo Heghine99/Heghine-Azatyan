@@ -8,6 +8,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=680&lines=React+Native+Developer;Cross-platform+iOS+%26+Android+apps;TypeScript+%C2%B7+GraphQL+%C2%B7+Redux+%C2%B7+Firebase;Turning+ideas+into+polished+mobile+products)](https://git.io/typing-svg)
 
+<br/>
+
 <img src="./divider.svg" width="100%" alt=""/>
 
 <!-- ===================== INTRO + ABOUT ===================== -->
