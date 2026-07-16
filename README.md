@@ -10,6 +10,13 @@
 
 <br/>
 
+<a href="https://www.linkedin.com/in/heghine-azatyan-7471ba22b/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
+<a href="mailto:heghine.azatyan99@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20out-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>&nbsp;
+<img src="https://img.shields.io/badge/Yerevan,%20Armenia-6366F1?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>&nbsp;
+<img src="https://komarev.com/ghpvc/?username=Heghine99&label=Profile%20views&color=8B5CF6&style=for-the-badge" alt="views"/>
+
+</div>
+
 <img src="./divider.svg" width="100%" alt=""/>
 
 <!-- ===================== INTRO + ABOUT ===================== -->
@@ -22,8 +29,9 @@
 - 📱 **React Native Developer** with 3+ years of experience (most recently at **Rocket Systems**, Jul 2022 – Nov 2025), shipping cross-platform apps to the App Store & Google Play.
 - 🧩 Strong with **TypeScript**, **Redux / RTK Query**, **GraphQL**, **REST APIs**, and real-time **WebSocket** features.
 - 🔗 Experienced integrating **Google Maps**, **Stripe payments**, **Firebase**, **OAuth (Google, Apple)**, and **Push Notifications (FCM / Notifee)**.
-- 🚀 Comfortable across the full delivery pipeline — **CI/CD (Codemagic)** and publishing to both stores.
+- 🚀 Comfortable across the full delivery pipeline — **CI/CD (Codemagic)**, deep-linking, **In-App Purchases**, and publishing to both stores.
 - 🎓 Bachelor's degree from the **National Polytechnic University of Armenia** (IT / Economics field).
+- 🌍 Languages: **Armenian** (Native) · **English** (Intermediate) · **Russian** (Intermediate)
 
 <img src="./divider.svg" width="100%" alt=""/>
 
