@@ -175,11 +175,6 @@ Selected production apps I've built as a React Native developer
 - 🎓 &nbsp;**Bachelor's Degree** — National Polytechnic University of Armenia · Information Technologies (Economics field) · *2017 – 2021*
 - 📜 &nbsp;**JavaScript / React Development** — Basic IT Center · *Jul 2021 – Dec 2021*
 
-## &nbsp;🌐&nbsp; Languages
-
-![Armenian](https://img.shields.io/badge/Armenian-Native-EC4899?style=flat-square)
-![English](https://img.shields.io/badge/English-Intermediate-6366F1?style=flat-square)
-![Russian](https://img.shields.io/badge/Russian-Intermediate-8B5CF6?style=flat-square)
 
 <img src="./divider.svg" width="100%" alt=""/>
 
