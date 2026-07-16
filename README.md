@@ -1,12 +1,12 @@
 <!-- ===================== ANIMATED HEADER ===================== -->
 <a href="https://github.com/Heghine99">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:EC4899&height=200&section=header&text=Heghine%20Azatyan&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=React%20Native%20%C2%B7%20TypeScript%20%C2%B7%20Mobile%20Developer&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:EC4899&height=200&section=header&text=Heghine%20Azatyan&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=React%20Native%20Developer%20%40%20Rocket%20Systems&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="header"/>
 </a>
 
 <!-- ===================== TYPING INTRO ===================== -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=650&lines=React+Native+%26+TypeScript+Developer;Building+cross-platform+iOS+%26+Android+apps;Turning+ideas+into+polished+mobile+experiences)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=680&lines=React+Native+Developer;Cross-platform+iOS+%26+Android+apps;TypeScript+%C2%B7+GraphQL+%C2%B7+Redux+%C2%B7+Firebase;Turning+ideas+into+polished+mobile+products)](https://git.io/typing-svg)
 
 <a href="https://www.linkedin.com/in/heghine-azatyan-7471ba22b/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:heghine.azatyan99@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20out-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
@@ -19,32 +19,42 @@
 
 ## 👋 Introduction
 
-Mobile developer based in **Yerevan, Armenia**, focused on building **cross-platform iOS & Android applications** with **React Native** and **TypeScript**. I care about clean architecture, type safety, and shipping smooth, native-feeling user experiences.
+I'm **Heghine Azatyan**, a **React Native Developer** based in **Yerevan, Armenia**, specializing in high-quality **cross-platform mobile applications** that deliver exceptional user experiences. I build reliable, production-ready apps for **iOS & Android** from a single **TypeScript** codebase — and I'm always ready to bring my skills and enthusiasm to exciting new projects.
 
 ## 🧑‍💻 About Me
 
-- 📱 I build **React Native** apps (bare workflow **and** Expo) that run on both iOS and Android from a single TypeScript codebase.
-- 🧩 Comfortable across the stack — from **TypeScript** mobile front-ends to **Node.js / Express** REST APIs.
-- 🎬 My projects range from movie-streaming apps to an employee-tracking tool and a cryptocurrency web app.
-- 🧠 Always learning — currently deepening my knowledge of scalable app architecture, state management, and performance optimization.
-- 🤝 Open to **mobile / React Native developer** opportunities and collaborations.
+- 📱 **React Native Developer @ Rocket Systems** (Jul 2022 – Present), shipping cross-platform apps to the App Store & Google Play.
+- 🧩 Strong with **TypeScript**, **Redux / RTK Query**, **GraphQL**, **REST APIs**, and real-time **WebSocket** features.
+- 🔗 Experienced integrating **Google Maps**, **Stripe payments**, **Firebase**, **OAuth (Google, Apple)**, and **Push Notifications (FCM / Notifee)**.
+- 🚀 Comfortable across the full delivery pipeline — **CI/CD (Codemagic)**, deep-linking, **In-App Purchases**, and publishing to both stores.
+- 🎓 Bachelor's degree from the **National Polytechnic University of Armenia** (IT / Economics field).
+- 🌍 Languages: **English** (Intermediate) · **Russian** (Intermediate)
+
+## 💼 Experience
+
+**React Native Developer** — *Rocket Systems*, Yerevan, Armenia · **Jul 2022 – Present**
+
+Building high-quality, cross-platform mobile applications end to end — from architecture and API integration to store deployment — with a focus on performance, reliability, and clean, maintainable TypeScript.
 
 ## 🛠️ Tech Stack
 
 <div align="center">
 
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![React Navigation](https://img.shields.io/badge/React_Navigation-6B52AE?style=for-the-badge&logo=react&logoColor=white)
+![RTK Query](https://img.shields.io/badge/RTK_Query-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=json&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Google Maps](https://img.shields.io/badge/Google_Maps_API-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
+![OAuth](https://img.shields.io/badge/OAuth_2.0-EB5424?style=for-the-badge&logo=auth0&logoColor=white)
+![FCM](https://img.shields.io/badge/Push_Notifications_·_FCM-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=json&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 </div>
 
@@ -54,16 +64,16 @@ Mobile developer based in **Yerevan, Armenia**, focused on building **cross-plat
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
+![Codemagic](https://img.shields.io/badge/CI%2FCD_·_Codemagic-F45E3B?style=for-the-badge&logo=codemagic&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS_(S3,%20Secrets%20Manager)-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white)
+![Google Play](https://img.shields.io/badge/Play_Store-414141?style=for-the-badge&logo=googleplay&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
-![Metro](https://img.shields.io/badge/Metro-EF4A3C?style=for-the-badge&logo=metro&logoColor=white)
-![Babel](https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=black)
-![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
-![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black)
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
 
@@ -94,6 +104,16 @@ Mobile developer based in **Yerevan, Armenia**, focused on building **cross-plat
 
 ---
 
+## 🚀 Highlighted Work
+
+Selected production apps I've built as a React Native developer:
+
+| Project | Description | Key Tech |
+| :--- | :--- | :--- |
+| 🚕 **Taxi App** | Cross-platform ride-hailing app connecting passengers with drivers, with two apps (client & driver) and real-time order tracking. | Google Maps · WebSocket · Stripe · GraphQL · Deep-linking · IAP |
+| ✅ **Task Management App** | Productivity & progress-tracking app with visual charts, task timelines, a built-in timer, and custom reminders. | React Native · Charts · Notifications · React Native IAP · Subscriptions |
+| ⚖️ **Legal Consultation App** | Two-sided platform connecting clients with lawyers, featuring a map of nearby courts based on location and visibility ranges. | React Native · Maps · Geolocation · REST API |
+
 ## 📌 Featured Repositories
 
 <div align="center">
@@ -114,21 +134,19 @@ Mobile developer based in **Yerevan, Armenia**, focused on building **cross-plat
 
 </div>
 
-| Project | What it is | Stack |
-| :--- | :--- | :--- |
-| **[Movies_App-typescript](https://github.com/Heghine99/Movies_App-typescript)** | Cross-platform movie app for iOS & Android | React Native · TypeScript |
-| **[EmployeeTrackingApp](https://github.com/Heghine99/EmployeeTrackingApp)** | Employee tracking app with file-based routing | Expo · Expo Router · TypeScript |
-| **[Movies_App](https://github.com/Heghine99/Movies_App)** | Native mobile movies experience | React Native · JavaScript |
-| **[CoinbaseProject](https://github.com/Heghine99/CoinbaseProject)** | Cryptocurrency web application | JavaScript · HTML · CSS |
-| **[expressJS](https://github.com/Heghine99/expressJS)** | REST CRUD backend service | Node.js · Express |
-
 ---
+
+## 🎓 Education & Certifications
+
+- 🎓 **Bachelor's Degree** — National Polytechnic University of Armenia · Information Technologies (Economics field) · *2017 – 2021*
+- 📜 **JavaScript / React Development** — Basic IT Center · *Jul 2021 – Dec 2021*
+
 
 ## 📫 Contact
 
 <div align="center">
 
-I'm open to **React Native / Mobile Developer** roles and collaborations. Let's talk!
+I'm open to **React Native / Mobile Developer** opportunities and collaborations. Let's build something great together!
 
 <a href="https://www.linkedin.com/in/heghine-azatyan-7471ba22b/"><img src="https://img.shields.io/badge/LinkedIn-Heghine%20Azatyan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:heghine.azatyan99@gmail.com"><img src="https://img.shields.io/badge/Gmail-heghine.azatyan99-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
