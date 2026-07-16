@@ -9,7 +9,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=680&lines=React+Native+Developer;Cross-platform+iOS+%26+Android+apps;TypeScript+%C2%B7+GraphQL+%C2%B7+Redux+%C2%B7+Firebase;Turning+ideas+into+polished+mobile+products)](https://git.io/typing-svg)
 
 <br/>
-
 </div>
 
 <img src="./divider.svg" width="100%" alt=""/>
@@ -43,38 +42,43 @@ Built high-quality, cross-platform mobile applications end to end — from archi
 
 <div align="center">
 
-<a href="https://github.com/Heghine99">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,redux,graphql,firebase,nodejs,express&perline=8" alt="React Native, TypeScript, JavaScript, Redux, GraphQL, Firebase, Node.js, Express"/>
-</a>
-
-<br/><br/>
-
-![RTK Query](https://img.shields.io/badge/RTK_Query-764ABC?style=flat-square&logo=redux&logoColor=white)
-![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=flat-square&logo=json&logoColor=white)
-![Google Maps](https://img.shields.io/badge/Google_Maps_API-4285F4?style=flat-square&logo=googlemaps&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
-![OAuth](https://img.shields.io/badge/OAuth_2.0-EB5424?style=flat-square&logo=auth0&logoColor=white)
-![FCM](https://img.shields.io/badge/Push_·_FCM_·_Notifee-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![RTK Query](https://img.shields.io/badge/RTK_Query-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+<br/>
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=json&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Google Maps](https://img.shields.io/badge/Google_Maps_API-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
+![OAuth](https://img.shields.io/badge/OAuth_2.0-EB5424?style=for-the-badge&logo=auth0&logoColor=white)
+<br/>
+![FCM](https://img.shields.io/badge/Push_·_FCM_·_Notifee-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 
 </div>
-
-<img src="./divider.svg" width="100%" alt=""/>
 
 ## &nbsp;🧰&nbsp; Tools
 
 <div align="center">
 
-<a href="https://github.com/Heghine99">
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket,aws,androidstudio,apple,vscode,postman,figma&perline=10" alt="Git, GitHub, GitLab, Bitbucket, AWS, Android Studio, Apple/Xcode, VS Code, Postman, Figma"/>
-</a>
-
-<br/><br/>
-
-![Codemagic](https://img.shields.io/badge/CI%2FCD_·_Codemagic-F45E3B?style=flat-square&logo=codemagic&logoColor=white)
-![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=appstore&logoColor=white)
-![Google Play](https://img.shields.io/badge/Play_Store-414141?style=flat-square&logo=googleplay&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
+![Codemagic](https://img.shields.io/badge/CI%2FCD_·_Codemagic-F45E3B?style=for-the-badge&logo=codemagic&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS_S3_·_Secrets-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+<br/>
+![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white)
+![Google Play](https://img.shields.io/badge/Play_Store-414141?style=for-the-badge&logo=googleplay&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
 
@@ -141,17 +145,11 @@ Selected production apps I've built as a React Native developer
 
 <img src="./divider.svg" width="100%" alt=""/>
 
-<!-- ===================== EDUCATION / LANGUAGES ===================== -->
+<!-- ===================== EDUCATION ===================== -->
 ## &nbsp;🎓&nbsp; Education & Certifications
 
 - 🎓 &nbsp;**Bachelor's Degree** — National Polytechnic University of Armenia · Information Technologies (Economics field) · *2017 – 2021*
 - 📜 &nbsp;**JavaScript / React Development** — Basic IT Center · *Jul 2021 – Dec 2021*
-
-## &nbsp;🌐&nbsp; Languages
-
-![Armenian](https://img.shields.io/badge/Armenian-Native-EC4899?style=flat-square)
-![English](https://img.shields.io/badge/English-Intermediate-6366F1?style=flat-square)
-![Russian](https://img.shields.io/badge/Russian-Intermediate-8B5CF6?style=flat-square)
 
 <img src="./divider.svg" width="100%" alt=""/>
 
@@ -164,11 +162,6 @@ Selected production apps I've built as a React Native developer
 Let's build something great together! 🚀
 
 <br/>
-
-<a href="https://www.linkedin.com/in/heghine-azatyan-7471ba22b/"><img src="https://img.shields.io/badge/LinkedIn-Heghine%20Azatyan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
-<a href="mailto:heghine.azatyan99@gmail.com"><img src="https://img.shields.io/badge/Gmail-heghine.azatyan99-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
-<a href="https://github.com/Heghine99"><img src="https://img.shields.io/badge/GitHub-Heghine99-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-
 </div>
 
 <!-- ===================== ANIMATED FOOTER ===================== -->
