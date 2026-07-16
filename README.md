@@ -1,6 +1,6 @@
 <!-- ===================== ANIMATED HEADER ===================== -->
 <a href="https://github.com/Heghine99">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:EC4899&height=200&section=header&text=Heghine%20Azatyan&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=React%20Native%20Developer%20%40%20Rocket%20Systems&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:EC4899&height=200&section=header&text=Heghine%20Azatyan&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=React%20Native%20Developer%20%C2%B7%20iOS%20%26%20Android&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="header"/>
 </a>
 
 <!-- ===================== TYPING INTRO ===================== -->
@@ -23,7 +23,7 @@ I'm **Heghine Azatyan**, a **React Native Developer** based in **Yerevan, Armeni
 
 ## 🧑‍💻 About Me
 
-- 📱 **React Native Developer @ Rocket Systems** (Jul 2022 – Present), shipping cross-platform apps to the App Store & Google Play.
+- 📱 **React Native Developer** with 3+ years of experience (most recently at **Rocket Systems**, Jul 2022 – Nov 2025), shipping cross-platform apps to the App Store & Google Play.
 - 🧩 Strong with **TypeScript**, **Redux / RTK Query**, **GraphQL**, **REST APIs**, and real-time **WebSocket** features.
 - 🔗 Experienced integrating **Google Maps**, **Stripe payments**, **Firebase**, **OAuth (Google, Apple)**, and **Push Notifications (FCM / Notifee)**.
 - 🚀 Comfortable across the full delivery pipeline — **CI/CD (Codemagic)**, deep-linking, **In-App Purchases**, and publishing to both stores.
@@ -32,7 +32,7 @@ I'm **Heghine Azatyan**, a **React Native Developer** based in **Yerevan, Armeni
 
 ## 💼 Experience
 
-**React Native Developer** — *Rocket Systems*, Yerevan, Armenia · **Jul 2022 – Present**
+**React Native Developer** — *Rocket Systems*, Yerevan, Armenia · **Jul 2022 – Nov 2025**
 
 Building high-quality, cross-platform mobile applications end to end — from architecture and API integration to store deployment — with a focus on performance, reliability, and clean, maintainable TypeScript.
 
@@ -114,25 +114,6 @@ Selected production apps I've built as a React Native developer:
 | ✅ **Task Management App** | Productivity & progress-tracking app with visual charts, task timelines, a built-in timer, and custom reminders. | React Native · Charts · Notifications · React Native IAP · Subscriptions |
 | ⚖️ **Legal Consultation App** | Two-sided platform connecting clients with lawyers, featuring a map of nearby courts based on location and visibility ranges. | React Native · Maps · Geolocation · REST API |
 
-## 📌 Featured Repositories
-
-<div align="center">
-
-<a href="https://github.com/Heghine99/Movies_App-typescript">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Heghine99&repo=Movies_App-typescript&hide_border=true&title_color=8B5CF6&icon_color=EC4899&text_color=808080&bg_color=00000000" alt="Movies App TypeScript"/>
-</a>
-<a href="https://github.com/Heghine99/EmployeeTrackingApp">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Heghine99&repo=EmployeeTrackingApp&hide_border=true&title_color=8B5CF6&icon_color=EC4899&text_color=808080&bg_color=00000000" alt="Employee Tracking App"/>
-</a>
-
-<a href="https://github.com/Heghine99/Movies_App">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Heghine99&repo=Movies_App&hide_border=true&title_color=8B5CF6&icon_color=EC4899&text_color=808080&bg_color=00000000" alt="Movies App"/>
-</a>
-<a href="https://github.com/Heghine99/CoinbaseProject">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Heghine99&repo=CoinbaseProject&hide_border=true&title_color=8B5CF6&icon_color=EC4899&text_color=808080&bg_color=00000000" alt="Coinbase Project"/>
-</a>
-
-</div>
 
 ---
 
@@ -141,6 +122,7 @@ Selected production apps I've built as a React Native developer:
 - 🎓 **Bachelor's Degree** — National Polytechnic University of Armenia · Information Technologies (Economics field) · *2017 – 2021*
 - 📜 **JavaScript / React Development** — Basic IT Center · *Jul 2021 – Dec 2021*
 
+---
 
 ## 📫 Contact
 
@@ -150,7 +132,6 @@ I'm open to **React Native / Mobile Developer** opportunities and collaborations
 
 <a href="https://www.linkedin.com/in/heghine-azatyan-7471ba22b/"><img src="https://img.shields.io/badge/LinkedIn-Heghine%20Azatyan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:heghine.azatyan99@gmail.com"><img src="https://img.shields.io/badge/Gmail-heghine.azatyan99-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-<a href="https://github.com/Heghine99"><img src="https://img.shields.io/badge/GitHub-Heghine99-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
 </div>
 
