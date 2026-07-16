@@ -122,28 +122,6 @@ Selected production apps I've built as a React Native developer
 | ✅ &nbsp;**Task Management App** | Productivity & progress-tracking app with visual charts, task timelines, a built-in timer, and custom reminders. | `React Native` · `Charts` · `Notifications` · `RN IAP` · `Subscriptions` |
 | ⚖️ &nbsp;**Legal Consultation App** | Two-sided platform connecting clients with lawyers, featuring a map of nearby courts based on location and visibility ranges. | `React Native` · `Maps` · `Geolocation` · `REST API` |
 
-<!-- ===================== FEATURED REPOS ===================== -->
-## &nbsp;📌&nbsp; Featured Repositories
-
-<div align="center">
-
-<a href="https://github.com/Heghine99/Movies_App-typescript">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Heghine99&repo=Movies_App-typescript&hide_border=true&title_color=8B5CF6&icon_color=EC4899&text_color=808080&bg_color=00000000" alt="Movies App TypeScript"/>
-</a>
-<a href="https://github.com/Heghine99/EmployeeTrackingApp">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Heghine99&repo=EmployeeTrackingApp&hide_border=true&title_color=8B5CF6&icon_color=EC4899&text_color=808080&bg_color=00000000" alt="Employee Tracking App"/>
-</a>
-<br/>
-<a href="https://github.com/Heghine99/Movies_App">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Heghine99&repo=Movies_App&hide_border=true&title_color=8B5CF6&icon_color=EC4899&text_color=808080&bg_color=00000000" alt="Movies App"/>
-</a>
-<a href="https://github.com/Heghine99/CoinbaseProject">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Heghine99&repo=CoinbaseProject&hide_border=true&title_color=8B5CF6&icon_color=EC4899&text_color=808080&bg_color=00000000" alt="Coinbase Project"/>
-</a>
-
-</div>
-
-<img src="./divider.svg" width="100%" alt=""/>
 
 <!-- ===================== EDUCATION ===================== -->
 ## &nbsp;🎓&nbsp; Education & Certifications
